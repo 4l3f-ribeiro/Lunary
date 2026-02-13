@@ -1,6 +1,6 @@
 # Lunary - Mini TCC
 
-Projeto acadêmico desenvolvido como Mini TCC, com temática voltada ao aproveitamento de estudos.
+Projeto orientado ao aproveitamento de estudos.
 
 ## 📌 Sistema
 
